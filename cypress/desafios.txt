@@ -1,0 +1,22 @@
+Desafios: 
+
+Cadastro do usuário sem sucesso por senhas não coincidirem ou usuário já existente - Feito, não reconhece.
+
+------------------------------------------------------------------
+
+Gerar números diferentes de usuário
+__________________________________________________________________
+
+Usuário não existe? Crie ele e faça login de novo - Não distingue, porém criado.
+
+Mudar o Contains por conta da Tradução ********************************************
+__________________________________________________________________
+
+Bank Name: at least 5. Aceita espaço em branco
+
+Routing Number: exact 9
+
+Account Number: At least 9 and Max 12
+__________________________________________________________________
+
+Diferentes specs - Feito.
